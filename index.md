@@ -19,7 +19,7 @@ Revisiting Newell's (1973) address "You can't play 20 questions with nature and 
 {% endfor %}
 </div>
 
-Hosted by the [Cognitive Science Society](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+Hosted by the [Cognitive Science Society](https://cognitivesciencesociety.org/), {{ site.pub_year }}.
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
