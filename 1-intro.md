@@ -1,38 +1,13 @@
 ---
-title: Intro
+title: Background
 nav: true
 ---
 
-# Introduction
+# Background
 
-One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/){:target='_blank'}.
-It provides free static web hosting from any repository.
-Gh-pages is intended to host relatively simple sites for your GitHub portfolio, project, or documentation.
-Because it is free and a valuable transferable skill, this is a great option for teaching and learning.
+In his famous address “You can’t play 20 questions with nature and win”, Newell (1973) predicted that experimental psychology’s focus on falsifying theories of individual phenomena (e.g., subitizing, directed forgetting, etc.) would not lead to a unifying theory subsuming several (let alone all) of the phenomena. Instead of seeking to detect effects, and binary searching our way to the explananda of these phenomena, Newell argued psychologists should build predictive theories of behavior by modeling 1) the structure of the task environment (i.e., context), 2) the subjects’ own goals, and 3) the invariant structure of the subjects’ processing mechanisms. Newell concludes that psychology will only make real progress in understanding the mind by 1) targeting tasks that are complex enough to cover the space of naturalistic behavior, 2) developing models that can competently perform the task, and 3) generalizing such models to perform multiple complex tasks. For 1), Newell chose to study chess; we believe he would find video games an even more compelling paradigm (see Gobet, 2017).
 
-Many organizations are using GitHub to collaboratively create and publish instructional websites. 
-For example: 
+### References
+Gobet, (2017). Allen Newell’s Program of Research: The Video-Game Test. _Topics in Cognitive Science_. (9) 522–532.
 
-- [Programming Historian](http://programminghistorian.org/)
-- [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/)
-- this site!
-
-> Note:
-> There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB, use < 100GB bandwidth per month, and make < 10 builds per hour.
-> If your site exceeds these quotas, GitHub will send you a notice asking you to modify the repository.
-> All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.
-
-# workshop-template
-
-`workshop-template` is a Jekyll project to create a simple workshop website, based on the [Minima theme](https://github.com/jekyll/minima){:target='_blank'}, designed for hosting on [gh-pages](https://pages.github.com/){:target='_blank'}.
-
-It works best for about 5 pages of instructions, plus index, all written in Markdown. 
-The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the lessons.
-
-## Why?
-
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and gh-pages makes this super easy.
-
-It is a better [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources){:target='_blank'} since anyone can easily fork and adapt!
+Newell, A., (1973). You can’t play 20 questions with nature and win. _Visual Information Processing_. W. G. Chase (ed.) New York, NY: Academic Press.
