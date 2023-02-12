@@ -23,11 +23,11 @@ repo: "https://github.com/kachergis/games4understanding"
 
 # site urls
 # add the url for the domain,
-# on gh-pages follow the pattern: https://username.github.io 
-url: https://kachergis.github.io
+# on gh-pages follow the pattern: https://kachergis.github.io
+url: "http://www.games4understanding.com"
 # add subsection of the domain,
-# on gh-pages this is a / followed by the name of the repository
-baseurl: /games4understanding
+# on gh-pages this is /games4understanding
+baseurl: ""
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
