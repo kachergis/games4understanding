@@ -4,9 +4,9 @@ title: Home
 
 # Video games as a path to a contextualized cognitive science, or How to play 20 questions with nature and win
 
-{% include figure.html img="Newell.jpg" alt="Photo of Simon Newell at a blackboard." caption="Simon Newell" width="75%" %}
+{% include figure.html img="Newell.jpg" alt="Photo of Simon Newell at a blackboard." caption="Allen Newell" width="75%" %}
 
-*Placeholder for CogSci 2023 workshop -- let's hope the workshop proposal is accepted!*
+*Update: 4/15/2023 Our workshop proposal was accepted: We hope to see you at CogSci 2023 in Sydney!*
 
 Revisiting Newell's (1973) address "You can't play 20 questions with nature and win", we explore how video games may serve as the complex behavioral paradigm that Newell sought, which is necessary to study in order to make progress towards a unified theory of cognition.
 
