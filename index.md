@@ -4,7 +4,7 @@ title: Home
 
 # Video games as a path to a contextualized cognitive science, or How to play 20 questions with nature and win
 
-{% include figure.html img="Newell.jpg" alt="Photo of Simon Newell at a blackboard." caption="Allen Newell" width="75%" %}
+{% include figure.html img="Newell_games.jpg" alt="Photo of Allen Newell at a blackboard." caption="Allen Newell" width="75%" %}
 
 *Update: 4/15/2023 Our workshop proposal was accepted: We hope to see you at CogSci 2023 in Sydney!*
 
