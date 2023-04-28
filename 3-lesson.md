@@ -5,4 +5,4 @@ nav: true
 
 # Content
 
-Slides, recorded talks, example game telemetry and analyses.
+Coming soon: Slides, recorded talks, example game telemetry and tutorials.
