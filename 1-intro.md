@@ -11,6 +11,6 @@ This workshop will explore how video games may be exemplary “complex tasks” 
 
 
 ### References
-Gobet, (2017). Allen Newell’s Program of Research: The Video-Game Test. _Topics in Cognitive Science_. (9) 522–532.
+Gobet, (2017). Allen Newell’s Program of Research: The Video-Game Test. _Topics in Cognitive Science_. (9) 522–532. [https://onlinelibrary.wiley.com/doi/epdf/10.1111/tops.12265](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tops.12265).
 
 Newell, A., (1973). [You can’t play 20 questions with nature and win](http://shelf2.library.cmu.edu/Tech/240474311.pdf). _Visual Information Processing_. W. G. Chase (ed.) New York, NY: Academic Press.
