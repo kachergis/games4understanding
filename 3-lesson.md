@@ -5,7 +5,7 @@ nav: true
 
 # Speaker Info
 
-|  Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  Bio                                                                                       |
+|  Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  Bio                                                                                       |
 |---------------------------------------|--------------------------------------------------------------------------------------------|
 | <img src="images/Anguera.png" alt="Joaquin A. Anguera" width="250"> | __[Joaquin A. Anguera](https://neuroscape.ucsf.edu/profile/joaquin-anguera/)__ is an Associate Professor in Neurology and Psychiatry at the University of California San Francisco, and the Director of the Clinical Program at Neuroscape, a center within UCSF. His research involves the implementation of digital technologies to remediate cognitive deficiencies and/or robustly characterize distinct cognitive abilities outside of the laboratory. |
 | <img src="images/Austerweil.jpg" alt="Joseph Austerweil" width="250"> | __[Joseph Austerweil](https://psych.wisc.edu/staff/austerweil-joe/)__ (organizer) is an associate professor at the University of Wisconsin-Madison. His lab investigates how people represent, retrieve, learn, create, and teach knowledge using computational modeling and behavioral experiments. |
