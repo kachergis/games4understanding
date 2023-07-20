@@ -5,7 +5,7 @@ nav: true
 
 # Schedule
 
-
+The workshop is on July 26 and times are Sydney local (GMT+10). See full CogSci 2023 program (here)[https://cognitivesciencesociety.org/program/].
 
 | Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Activity         | Presenter  | Title                                                      |
 | ------------ | ---------------- | ---------- | ---------------------------------------------------------- |
